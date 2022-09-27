@@ -18,3 +18,4 @@ cache:
 script: 
   - mvn -version
   - mvn clean package
+  - echo "testing"
